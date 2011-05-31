@@ -1,0 +1,6 @@
+Example to use with logical model support
+
+* Needs org.eclipse.team.examples.filesystem from /cvsroot/eclipse
+
+* *.mod files are the root model files
+** Can reference any other *.moe file per file content
