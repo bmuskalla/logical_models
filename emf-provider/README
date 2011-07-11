@@ -1,0 +1,5 @@
+Example to use with logical model support with EMF
+
+* Needs EMF Compare installed
+
+* My.ecore references Your.ecore
